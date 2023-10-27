@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698384824 source:d:\nadosh\text-editor\lab4-4\main.c
+	<stdio.h>
+	<stdlib.h>
+
